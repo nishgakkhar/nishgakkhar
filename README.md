@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nishgakkhar
-- 👀 I’m interested in projects that server a wider community
+- 👀 I’m interested in projects that serve a wider community
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Open source projects 
-- 📫 How to reach me - emmail me on nishgakkhar@gmail.com
+- 📫 How to reach me - email me on nishgakkhar@gmail.com
